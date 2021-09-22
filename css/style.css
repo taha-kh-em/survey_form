@@ -1,0 +1,16 @@
+#title {
+  text-align: center;
+}
+
+#description {
+  text-align: center;
+}
+
+.form-control {
+  margin: 5px;
+}
+
+form {
+  padding: 8px;
+  background-color: rgb(147, 137, 235);
+}

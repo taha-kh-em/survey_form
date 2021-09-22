@@ -14,3 +14,8 @@ form {
   padding: 8px;
   background-color: rgb(147, 137, 235);
 }
+
+button {
+  display: block;
+  width: 100%;
+}
